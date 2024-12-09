@@ -3,8 +3,9 @@ import requests
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 
-CLIENT_ID = "ebebdcb04d72403e846f6aee03153cb6"
-CLIENT_SECRET = "1da4a7e962e64dafa55eb023cf3fd1c9"
+#Read README.md for instructions on obtaining CLIENT_ID and CLIENT_SECRET
+CLIENT_ID = "Enter your client ID here"
+CLIENT_SECRET = "Enter your client secret here"
 
 scope = "playlist-modify-private"
 # Scraping Billboard 100

@@ -1,6 +1,7 @@
-# Musical Time Machine
+#Musical Time Machine
 ---
 ## What this does:
+
 On running this code in any code editor of your choice, you will be asked to enter a date. Once you enter a date in the past, the program will automatically create a playlist in your Spotify account based on the Billboard Top 100 songs on that paticular date.
 ---
 ### Instructions:
