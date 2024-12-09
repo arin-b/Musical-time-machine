@@ -1,4 +1,4 @@
-#Musical Time Machine
+# Musical Time Machine
 ---
 ## What this does:
 
@@ -13,4 +13,4 @@ On running this code in any code editor of your choice, you will be asked to ent
 6. Copy them and paste them into the code wherever it is indicated.
 7. You are good to go!
 ---
-[^1]: Read the [Spotify Developers Terms of Service](https://developer.spotify.com) if you wish to use this API for any purpose other than this particular application.
+P.S. Read the [Spotify Developers Terms of Service](https://developer.spotify.com) if you wish to use this API for any purpose other than this particular application.
